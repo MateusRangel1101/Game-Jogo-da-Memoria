@@ -71,16 +71,16 @@ h2 {
     transition: 0.25s;
 }
 
-.item::after {
+/* .item::after {
     content: "";
     position: absolute;
     inset: 0;
     background: #404040;
-    /* opacity: 0.85; */
+    opacity: 0.85;
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
-}
+} */
 
 .item.boxOpen {
     transform: rotateY(0deg);
