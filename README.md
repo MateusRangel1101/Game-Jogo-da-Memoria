@@ -2,7 +2,9 @@
 
 Este é um projeto de um jogo da memória de emojis desenvolvido com JavaScript, CSS e HTML. Teste sua memória encontrando pares de emojis iguais!
 
-![Imagem do Jogo](https://github.com/MateusRangel1101/Game-Jogo-da-Memoria/assets/142257269/60ba5bcd-2f37-4691-8cd9-94caa5dcbd1c)
+<div align="center">
+<img src="https://github.com/MateusRangel1101/Game-Jogo-da-Memoria/assets/142257269/60ba5bcd-2f37-4691-8cd9-94caa5dcbd1c" alt="Imagem do Jogo" width="400" height="350">
+</div>
 
 ## Funcionalidades
 
@@ -22,8 +24,8 @@ Este é um projeto de um jogo da memória de emojis desenvolvido com JavaScript,
 ## Estrutura do Projeto
 
 - `index.html`: Contém a estrutura HTML do jogo da memória.
-- `styles.css`: Arquivo CSS responsável pelo estilo e layout do jogo.
-- `script.js`: Código JavaScript que controla a lógica do jogo da memória.
+- `main.css`: Arquivo CSS responsável pelo estilo e layout do jogo.
+- `engine.js`: Código JavaScript que controla a lógica do jogo da memória.
 
 ## Tecnologias Utilizadas
 
