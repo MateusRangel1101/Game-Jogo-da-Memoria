@@ -35,7 +35,7 @@ Contribuições são bem-vindas! Se você encontrar bugs, tiver sugestões ou qu
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome](link_do_seu_perfil_no_github).
+Este projeto foi desenvolvido por [Mateus Rangel](https://github.com/MateusRangel1101).
 
 ## Licença
 
