@@ -37,8 +37,4 @@ Contribuições são bem-vindas! Se você encontrar bugs, tiver sugestões ou qu
 
 Este projeto foi desenvolvido por [Mateus Rangel](https://github.com/MateusRangel1101).
 
-## Licença
-
-Este projeto está licenciado sob a Licença [Nome da Licença]. Consulte o arquivo LICENSE.md para obter mais detalhes.
-
 
